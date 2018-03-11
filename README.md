@@ -14,4 +14,4 @@ to run decorators example:
 
 *install* `npm i`
 
-*install* `npm run run:decorators`
+*run* `npm run run:decorators`

@@ -1,0 +1,23 @@
+{
+  "name": "notes-for-meta-programming-js",
+  "version": "1.0.0",
+  "description": "My notes for meta programing in javascript using it for sefl education\r initial commit based on *Nick Nisi* talk which is awesome\r [talk](https://www.youtube.com/watch?v=nsG_izwv_0U)",
+  "main": "index.js",
+  "scripts": {
+    "run:decorators": "npx babel-node ./demo//decorators.js --plugins transform-decorators-legacy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djleonskennedy/notes-for-meta-programming-js.git"
+  },
+  "author": "Yuriy Yakovenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djleonskennedy/notes-for-meta-programming-js/issues"
+  },
+  "homepage": "https://github.com/djleonskennedy/notes-for-meta-programming-js#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4"
+  }
+}

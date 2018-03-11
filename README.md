@@ -9,3 +9,9 @@ Topics to research:
 - Proxy (Intercession)
 - Decorators
 - Metadata Reflection API (proposed) implemented in TypeScript
+
+to run decorators example:
+
+*install* `npm i`
+
+*install* `npm run run:decorators`
